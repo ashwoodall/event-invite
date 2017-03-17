@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700|Yesteryear');
+
+body {
+	background-image: url('../images/cookies.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Raleway', sans-serif !important;
+}
+
+h1 {
+	font-family: 'Yesteryear', cursive !important;
+	font-size: 4em !important;
+	margin-top: 60px !important;
+	text-align: center;
+	color: #FFFFFF !important;
+}
+
+.card {
+	max-width: 40%;
+	padding: 15px 15px !important;
+	margin: 60px auto;
+	background: rgba(250, 250, 250, 0.5);
+	text-align: center;
+}
+
+.details {
+	text-align: left;
+}
+
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 28px;        
+  box-sizing: border-box;
+}
